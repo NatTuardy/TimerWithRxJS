@@ -1,0 +1,20 @@
+.btn {
+  margin-left: 2em;
+  height: 2.7em;
+  width: 6.2em;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+  background-color: lightpink;
+}
+
+.btn:hover {
+  color: #000;
+  background-color: rgba(91, 110, 134, 0.5);
+}
+
+@media screen and (min-width: 560px) {
+  .btn {
+    padding: 0.5em 1em;
+  }
+}
