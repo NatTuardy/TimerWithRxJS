@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TimerWithRxJS/static/css/main.daca61d8.chunk.css",
+    "main.js": "/TimerWithRxJS/static/js/main.9e3f4007.chunk.js",
+    "main.js.map": "/TimerWithRxJS/static/js/main.9e3f4007.chunk.js.map",
+    "runtime-main.js": "/TimerWithRxJS/static/js/runtime-main.4a9a06b3.js",
+    "runtime-main.js.map": "/TimerWithRxJS/static/js/runtime-main.4a9a06b3.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/TimerWithRxJS/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.fbc403fa.chunk.js": "/TimerWithRxJS/static/js/2.fbc403fa.chunk.js",
+    "static/js/2.fbc403fa.chunk.js.map": "/TimerWithRxJS/static/js/2.fbc403fa.chunk.js.map",
+    "index.html": "/TimerWithRxJS/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/TimerWithRxJS/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.daca61d8.chunk.css.map": "/TimerWithRxJS/static/css/main.daca61d8.chunk.css.map",
+    "static/js/2.fbc403fa.chunk.js.LICENSE.txt": "/TimerWithRxJS/static/js/2.fbc403fa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TimerWithRxJS/static/media/pt-sans-v12-latin-regular.ab33818f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a9a06b3.js",
+    "static/css/2.de71bbd8.chunk.css",
+    "static/js/2.fbc403fa.chunk.js",
+    "static/css/main.daca61d8.chunk.css",
+    "static/js/main.9e3f4007.chunk.js"
+  ]
+}
